@@ -58,23 +58,6 @@ var config = {
 
 }
 
-//delete starter pack
-const DeleteRating=async(id)=>{
-var config = {
-    method: 'delete',
-    url: 'http://gentlemenscrib.vercel.app/api/admin/delete-stylist/'+id,
-    headers: {
-    'Content-Type': 'application/json'
-    },
-};
-axios(config).then(function (response) {
-    return JSON.stringify(response.data);
-    })
-    .catch(function (error) {
-        return error;
-    }
-    );
-}
 
 module.exports = {
     DeleteRating,
