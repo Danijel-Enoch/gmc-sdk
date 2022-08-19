@@ -80,5 +80,6 @@ module.exports = {
     CreateStarterPack,
     GetStarterPack,
     UpdateStarterPack,
+    DeleteStarterPack
 
 }
