@@ -3,42 +3,42 @@ const techBro={
         {
             id: 1,
             quantity:2,
-            item:"Jeans"
+            packitem:"Jeans"
         },
         {
             id: 2,
             quantity:1,
-            item:"Sweater/Cardigan"
+            packitem:"Sweater/Cardigan"
         },
         {
             id: 3,
             quantity:2,
-            item:"Kakki pants"
+            packitem:"Kakki pants"
         },
         {
             id: 4,
             quantity:2,
-            item:"Joggers"
+            packitem:"Joggers"
         },
         {
             id: 5,
             quantity:2,
-            item:"Jersey"
+            packitem:"Jersey"
         },
         {
             id: 6,
             quantity:3,
-            item:"Plain tees"
+            packitem:"Plain tees"
         },
         {
             id: 7,
             quantity:1,
-            item:"Crocs"
+            packitem:"Crocs"
         },
         {
             id: 8,
             quantity:3,
-            item:"Designer tees"
+            packitem:"Designer tees"
         }
 
     ]
@@ -48,42 +48,42 @@ const student = {
         {
             id: 9,
             quantity:3,
-            item:"T-Shirts"
+            packitem:"T-Shirts"
         },
         {
             id: 10,
             quantity:1,
-            item:"Jeans"
+            packitem:"Jeans"
         },
         {
             id: 11,
             quantity:2,
-            item:"Pant trousers"
+            packitem:"Pant trousers"
         },
         {
             id: 12,
             quantity:2,
-            item:"Collared Shirts"
+            packitem:"Collared Shirts"
         },
         {
             id: 13,
             quantity:3,
-            item:"Polo Shirts"
+            packitem:"Polo Shirts"
         },
         {
             id: 14,
             quantity:2,
-            item:"Chinos"
+            packitem:"Chinos"
         },
         {
             id: 15,
             quantity:1,
-            item:"Palm sandal"
+            packitem:"Palm sandal"
         },
         {
             id: 16,
             quantity:1,
-            item:"Loafers"
+            packitem:"Loafers"
         }
     ]
 
@@ -93,77 +93,77 @@ const workFromHome = {
         {
             id: 17,
             quantity:2,
-            item:"Jeans"
+            packitem:"Jeans"
         },
         {
             id: 18,
             quantity:1,
-            item:"Sweater/Cardigan"
+            packitem:"Sweater/Cardigan"
         },
         {
             id: 19,
             quantity:2,
-            item:"Kakki pants"
+            packitem:"Kakki pants"
         },
         {
             id: 19,
             quantity:2,
-            item:"Joggers"
+            packitem:"Joggers"
         },
         {
             id: 20,
             quantity:2,
-            item:"Jersey"
+            packitem:"Jersey"
         },
         {
             id: 21,
             quantity:3,
-            item:"Plain tees"
+            packitem:"Plain tees"
         },
         {
             id: 22,
             quantity:3,
-            item:"Designer tees"
+            packitem:"Designer tees"
         },
 
     ]
 };
 const rainingSeason  = {
-    items: [
+   items: [
         {
             id: 23,
             quantity:3,
-            item:"Dark coloured shirts"
+            packitem:"Dark coloured shirts"
         },
         {
             id: 24,
             quantity:2,
-            item:"Black jeans"
+            packitem:"Black jeans"
         },
         {
             id: 25,
             quantity:1,
-            item:"Grey Pants"
+            packitem:"Grey Pants"
         },
         {
             id: 26,
             quantity:2,
-            item:"Hoodies"
+            packitem:"Hoodies"
         },
         {
             id: 27,
             quantity:1,
-            item:"Leather Jacket"
+            packitem:"Leather Jacket"
         },
         {
             id: 28,
             quantity:1,
-            item:"Denim Jacket"
+            packitem:"Denim Jacket"
         },
         {
             id: 29,
             quantity:2,
-            item:"Turtle Neck"
+            packitem:"Turtle Neck"
         }
     ]
 };
@@ -172,37 +172,37 @@ const partyGoer = {
         {
             id: 30,
             quantity:3,
-            item:"Patterned Shirt"
+            packitem:"Patterned Shirt"
         },
         {
             id: 31,
             quantity:2,
-            item:"Jeans"
+            packitem:"Jeans"
         },
         {
             id: 32,
             quantity:1,
-            item:"Denim Jackets"
+            packitem:"Denim Jackets"
         },
         {
             id: 33,
             quantity:3,
-            item:"Chinos"
+            packitem:"Chinos"
         },
         {
             id: 34,
             quantity:2,
-            item:"Pants"
+            packitem:"Pants"
         },
         {
             id: 35,
             quantity:2,
-            item:"Aloha Shirts"
+            packitem:"Aloha Shirts"
         },
         {
             id: 36,
             quantity:2,
-            item:"Sneakers"
+            packitem:"Sneakers"
         }
     ]
 };
@@ -211,32 +211,32 @@ const owanbe = {
         {
             id: 37,
             quantity:2,
-            item:"Senator"
+            packitem:"Senator"
         },
         {
             id: 38,
             quantity:1,
-            item:"Loafers"
+            packitem:"Loafers"
         },
         {
             id: 39,
             quantity:1,
-            item:"Agbada"
+            packitem:"Agbada"
         },
         {
             id: 40,
             quantity:2,
-            item:"Ankara shorts"
+            packitem:"Ankara shorts"
         },
         {
             id: 41,
             quantity:1,
-            item:"Brogues"
+            packitem:"Brogues"
         },
         {
             id: 42,
             quantity:1,
-            item:"Palms"
+            packitem:"Palms"
         }
     ]
 };
@@ -245,61 +245,61 @@ const gym = {
         {
             id: 43,
             quantity:5,
-            item:"Racerbacks"
+            packitem:"Racerbacks"
         },
         {
             id: 44,
             quantity:4,
-            item:"Sleeveless T-Shirts"
+            packitem:"Sleeveless T-Shirts"
         },
         {
             id: 45,
             quantity:4,
-            item:"Sweatshorts"
+            packitem:"Sweatshorts"
         },
         {
             id: 46,
             quantity:3,
-            item:"Sweatpants"
+            packitem:"Sweatpants"
         },
         {
             id: 47,
             quantity:3,
-            item:"Trainers"
+            packitem:"Trainers"
         }
     ]
 };
 const dateNight = {
-    items: [
+   items: [
         {
             id: 48,
             quantity:3,
-            item:"Collared shirts"
+            packitem:"Collared shirts"
         },
         {
             id: 49,
             quantity:2,
-            item:"Blazers"
+            packitem:"Blazers"
         },
         {
             id: 50,
             quantity:2,
-            item:"Jeans"
+            packitem:"Jeans"
         },
         {
             id: 51,
             quantity:2,
-            item:"Pants"
+            packitem:"Pants"
         },
         {
             id: 52,
             quantity:1,
-            item:"Accesories (Wrist Watch)"
+            packitem:"Accesories (Wrist Watch)"
         },
         {
             id: 53,
             quantity:1,
-            item:"Loafers"
+            packitem:"Loafers"
         }
     ]
 };
@@ -308,32 +308,32 @@ const corporateCasual= {
         {
             id: 54,
             quantity:2,
-            item:"Blazers Jacket"
+            packitem:"Blazers Jacket"
         },
         {
             id: 55,
             quantity:2,
-            item:"Pant trousers"
+            packitem:"Pant trousers"
         },
         {
             id: 56,
             quantity:2,
-            item:"Turtle Neck"
+            packitem:"Turtle Neck"
         },
         {
             id: 57,
             quantity:3,
-            item:"Plain round neck shirt"
+            packitem:"Plain round neck shirt"
         },
         {
             id: 58,
             quantity:2,
-            item:"Loafers"
+            packitem:"Loafers"
         },
         {
             id: 59,
             quantity:1,
-            item:"White sneakers"
+            packitem:"White sneakers"
         }
     ]
 };
