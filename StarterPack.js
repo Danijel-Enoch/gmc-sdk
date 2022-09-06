@@ -1,6 +1,15 @@
 const axios = require("axios");
 
 //create Starter Pack
+/**
+ * const data= {
+   "pack_name":"Danie",
+     "pack_data":[["Daniel","2"],["Daniel","2"]],
+     "price":"20",
+     "images":"kdjfhkgdjfkgdjhk"
+    }
+ * @param {*} data 
+ */
 const CreateStarterPack=async(data)=>{
 var config = {
   method: 'post',
